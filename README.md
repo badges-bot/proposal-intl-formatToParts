@@ -1,4 +1,6 @@
 ## `DateTimeFormat.prototype.formatToParts` / `NumberFormat.prototype.formatToParts`
+
+![Stage 4](https://badges.aleen42.com/src/tc39_5.svg)
 Proposal, specs, tests and reference implementation for DateTimeFormat.prototype.formatToParts and NumberFormat.prototype.formatToParts.
 
 ### Status
